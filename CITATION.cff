@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Xiong
     given-names: Wenhao
-repository-code: "https://github.com/your-username/array-acoustic-fusion-image"
+repository-code: "https://github.com/xwh0523/array-acoustic-fusion-image"
 license: Apache-2.0
 version: 1.0.0
 date-released: 2026-01-01
