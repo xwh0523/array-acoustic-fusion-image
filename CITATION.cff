@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Array Acoustic Fusion Image Framework"
+message: "If you use this software, please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: Xiong
+    given-names: Wenhao
+repository-code: "https://github.com/your-username/array-acoustic-fusion-image"
+license: Apache-2.0
+version: 1.0.0
+date-released: 2026-01-01
+keywords:
+  - array acoustic logging
+  - fracture detection
+  - slowness-envelope reconstruction
+  - multi-attribute fusion image
+  - geoscientific software
